@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: 3.6
 
-        # Install Python Dependencies
+        # Install Python Dependencies ok
       - name: Install dependencies
         run: pip install -r requirements.txt
 
