@@ -1,2 +1,2 @@
-# multiInstanceDemo
-This is test code for CI/CD on AWS with multipleInstances
+# Amazon EC2 Deployment: CICD Pipeline using GitHub Actions and AWS CodeDeploy
+
